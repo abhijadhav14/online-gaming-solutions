@@ -1,4 +1,4 @@
-# online-gaming-solutions
+#i-Hack Gaming Hackathon | E Summit '25 | E Cell, IIT Bombay   online-gaming-solutions
 
 This repository contains code solutions aimed at addressing critical challenges in the Indian online gaming industry, including consumer safety, regulatory clarity, and responsible gaming practices. These solutions leverage cutting-edge technologies such as artificial intelligence, blockchain, and machine learning to create a safer, more transparent, and user-friendly gaming ecosystem.
 
